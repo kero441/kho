@@ -7,7 +7,7 @@
 
 <!DOCTYPE html>
 <html><head><title>Lab 9.1</title></head>
-<html><head><title>Lab 9.100000</title></head>
+<html><head><title>Lab 10.100000</title></head>
 <body>
 <table width="100%">
    <tr valign='top'><td bgcolor="#c0c0c0" width="20%"><%@include file='sidebar.jsp'%></td>
