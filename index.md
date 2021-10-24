@@ -1,2 +1,0 @@
-# kho
-Click vào dây 
